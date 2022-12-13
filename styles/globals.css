@@ -36,3 +36,19 @@ button {
   padding: 0.5rem 1rem;
   font-weight: bold;
 }
+
+img {
+  max-width: 100%;
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.white {
+  color: #fff;
+}
+.black {
+  color: #000;
+}
